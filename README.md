@@ -5,3 +5,6 @@ PROJECT 3:SMART RECOMMENDATION SYSTEM
 
 ## Author
 Anisha Basu
+
+## Internship
+AI/ML Internship – CODEVEDX
